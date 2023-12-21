@@ -1,0 +1,6 @@
+fonts — It will contains global fonts like font size, font type and font weight. Whenever you come across situations where you need to use the same size of fonts and the same font family, you have to create a theme/fonts.
+
+colors — All the colors which repeating themselves for example your application has theme colors which are black & red so you can add primary & secondary colors like black & red.
+
+metrics — This will hold your device dimensions it will manage all the fonts, margins and images according to device size. So, you can export and use responsive layouts.
+

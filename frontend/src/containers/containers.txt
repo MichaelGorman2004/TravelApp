@@ -1,0 +1,1 @@
+Place to put all screen based components together, such as homescreen, bottom tabs, sidebar, navbar etc.
