@@ -2,3 +2,5 @@ Notion: https://www.notion.so/Travel-App-a5bca0ffe52348918b8b603756491db6
 Github: https://github.com/MichaelGorman2004/TravelApp
 YouTube: https://www.youtube.com/playlist?list=PL4W38PDLqFiMl16Hzt5c7V8ofmSm7-yOv
 File Structure: https://medium.com/@techwithmuskan/best-folder-structure-for-react-native-project-c6d7dd6dd494
+Wiki API: https://api.wikimedia.org/wiki/Getting_started_with_Wikimedia_APIs
+OpenAI API: https://www.evolvingdev.com/post/how-to-use-the-open-ai-api-with-javascript
